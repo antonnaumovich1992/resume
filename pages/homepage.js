@@ -2,11 +2,11 @@ let homepage = `
     <section class="home">
         <div class="home-content">
             <h1>Anton Naumovich</h1>
-            <h3>Junior front-end developer | Mechanical Engineer</h3>
+            <h3>Junior front-end developer | Former Mechanical Engineer</h3>
         <br>
         <p>
             My name is Anton. Im 27 y.o. and I am a former Mechanical Enjineer.
-            I want to start my new career in a cool company, learn new things, develop as a specialist.
+            This is simple example of single page app with JavaScript
         </p>
 
        
